@@ -1,5 +1,5 @@
 # Virtual-Space-Model
-Virtual Model of the Solar System using JavaScript and three.js
+Virtual Model of the Solar System using JavaScript and three.js.
 Planets rotate around the sun and 3D shapes are modeled to look like the planets.
 Complete with drag controls to view from multiple angles. 
 
